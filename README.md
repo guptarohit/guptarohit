@@ -1,3 +1,3 @@
-## Hi there 👋
+## Hi 👋
 
  ![](https://komarev.com/ghpvc/?username=guptarohit)
